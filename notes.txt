@@ -1,0 +1,32 @@
+🔹 Step 1: Card Class
+Has rank (2–10, J, Q, K, A)
+
+Has suit (Clubs, Spades, Hearts, Diamonds)
+
+Can be compared (you define value of J=11...A=14)
+
+🔹 Step 2: Deck Class
+Holds 52 cards
+
+Has methods to:
+
+Shuffle
+
+Deal cards (split into two hands)
+
+🔹 Step 3: Player Class (Optional but clean)
+Has a name
+
+Has a hand (list of cards)
+
+Draws top card (removes from hand)
+
+🔹 Step 4: Game Logic
+Loop for 26 rounds
+
+Compare cards
+
+Update score
+
+Print result
+
