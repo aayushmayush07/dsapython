@@ -18,6 +18,7 @@ class Sudoku:
             while j < 9:
                 if sudoku[i][j] == 0:
                  
+                 
                     k = 1
                     while k < 10:
                         inRow = False

@@ -29,6 +29,8 @@ def nsolution():
 
 
 
+
+
 nsqrsolution=nsqrsolution()
 nsolution=nsolution()
 
